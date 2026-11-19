@@ -1,124 +1,124 @@
 {
-  "generated_at": "2026-11-19T07:54+09:00",
-  "us_session_date": "2026-11-18",
+  "generated_at": "2026-11-20T07:52+09:00",
+  "us_session_date": "2026-11-19",
   "state": "add",
   "message": "추가 매수 유리 구간: 과거 이런 날 산 경우 20~60일 성과가 평소보다 좋았습니다 (통계적으로는 약함).",
   "reasons": [
-    "VIX 역전: 단기 공포(VIX 24.6)가 3개월 공포보다 큼 (비율 1.01)",
-    "CNN 공포탐욕지수 24.6 (극단적 공포)"
+    "VIX 역전: 단기 공포(VIX 28.4)가 3개월 공포보다 큼 (비율 1.05)",
+    "CNN 공포탐욕지수 18.7 (극단적 공포)"
   ],
   "indicators": {
-    "vix": 24.56,
-    "vix3m": 24.29,
-    "vix_term": 1.011,
+    "vix": 28.44,
+    "vix3m": 27.03,
+    "vix_term": 1.052,
     "fear_greed": {
-      "score": 24.6,
+      "score": 18.7,
       "rating": "extreme fear",
-      "prev_close": 25.2
+      "prev_close": 24.6
     },
-    "sp500": 7323.63,
-    "sp500_1d_pct": -0.23
+    "sp500": 7175.83,
+    "sp500_1d_pct": -2.02
   },
   "momentum_top20": [
     {
       "ticker": "MRNA",
       "name": "모더나",
-      "mom_12_1_pct": 916.6
-    },
-    {
-      "ticker": "SNDK",
-      "name": "샌디스크",
-      "mom_12_1_pct": 460.3
-    },
-    {
-      "ticker": "DELL",
-      "name": "델 테크놀로지스",
-      "mom_12_1_pct": 307.0
+      "mom_12_1_pct": 806.2
     },
     {
       "ticker": "MU",
       "name": "마이크론 테크놀로지",
-      "mom_12_1_pct": 304.4
+      "mom_12_1_pct": 325.3
+    },
+    {
+      "ticker": "DELL",
+      "name": "델 테크놀로지스",
+      "mom_12_1_pct": 285.8
     },
     {
       "ticker": "LITE",
       "name": "루멘텀",
-      "mom_12_1_pct": 216.3
+      "mom_12_1_pct": 222.6
     },
     {
       "ticker": "MRVL",
       "name": "마벨 테크놀로지",
-      "mom_12_1_pct": 201.0
+      "mom_12_1_pct": 191.4
     },
     {
       "ticker": "HPE",
       "name": "휴렛팩커드 엔터프라이즈",
-      "mom_12_1_pct": 182.4
+      "mom_12_1_pct": 177.1
     },
     {
       "ticker": "STX",
       "name": "씨게이트 테크놀로지",
-      "mom_12_1_pct": 168.9
-    },
-    {
-      "ticker": "INTC",
-      "name": "인텔",
-      "mom_12_1_pct": 164.8
+      "mom_12_1_pct": 167.0
     },
     {
       "ticker": "OKTA",
       "name": "옥타",
-      "mom_12_1_pct": 160.5
+      "mom_12_1_pct": 157.1
     },
     {
-      "ticker": "AMD",
-      "name": "AMD",
-      "mom_12_1_pct": 147.2
+      "ticker": "INTC",
+      "name": "인텔",
+      "mom_12_1_pct": 154.3
     },
     {
       "ticker": "WDC",
       "name": "웨스턴 디지털",
-      "mom_12_1_pct": 145.8
+      "mom_12_1_pct": 152.6
     },
     {
       "ticker": "VLO",
       "name": "발레로 에너지",
-      "mom_12_1_pct": 142.2
+      "mom_12_1_pct": 149.5
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "mom_12_1_pct": 146.5
     },
     {
       "ticker": "MPC",
       "name": "마라톤 페트롤리엄",
-      "mom_12_1_pct": 139.4
-    },
-    {
-      "ticker": "ILMN",
-      "name": "일루미나",
-      "mom_12_1_pct": 135.5
-    },
-    {
-      "ticker": "TWLO",
-      "name": "트윌리오",
-      "mom_12_1_pct": 122.0
+      "mom_12_1_pct": 144.5
     },
     {
       "ticker": "BE",
       "name": "블룸 에너지",
-      "mom_12_1_pct": 119.0
+      "mom_12_1_pct": 133.2
+    },
+    {
+      "ticker": "ILMN",
+      "name": "일루미나",
+      "mom_12_1_pct": 125.9
     },
     {
       "ticker": "FTNT",
       "name": "포티넷",
-      "mom_12_1_pct": 118.3
+      "mom_12_1_pct": 121.7
     },
     {
       "ticker": "PSX",
       "name": "필립스66",
-      "mom_12_1_pct": 115.7
+      "mom_12_1_pct": 115.6
+    },
+    {
+      "ticker": "TWLO",
+      "name": "트윌리오",
+      "mom_12_1_pct": 113.3
+    },
+    {
+      "ticker": "APA",
+      "name": "APA",
+      "mom_12_1_pct": 111.5
     },
     {
       "ticker": "CRL",
       "name": "찰스리버 래버러토리스",
-      "mom_12_1_pct": 113.4
+      "mom_12_1_pct": 109.6
     }
   ],
   "note": "모멘텀 목록은 참고용 (60일 +2.6%p, 근거 약함). 추천이 아니라 정보입니다.",
@@ -133,73 +133,73 @@
       "picks": [
         {
           "rank": 1,
-          "ticker": "SNDK",
-          "name": "샌디스크",
-          "mom_pct": 730.9,
-          "signal_close": 1150.89
-        },
-        {
-          "rank": 2,
           "ticker": "MRNA",
           "name": "모더나",
           "mom_pct": 662.8,
           "signal_close": 221.72
         },
         {
-          "rank": 3,
+          "rank": 2,
           "ticker": "LITE",
           "name": "루멘텀",
           "mom_pct": 443.9,
           "signal_close": 840.7
         },
         {
-          "rank": 4,
+          "rank": 3,
           "ticker": "MU",
           "name": "마이크론 테크놀로지",
           "mom_pct": 358.0,
           "signal_close": 884.74
         },
         {
-          "rank": 5,
+          "rank": 4,
           "ticker": "DELL",
           "name": "델 테크놀로지스",
           "mom_pct": 251.3,
           "signal_close": 424.3
         },
         {
-          "rank": 6,
+          "rank": 5,
           "ticker": "STX",
           "name": "씨게이트 테크놀로지",
           "mom_pct": 219.7,
           "signal_close": 644.58
         },
         {
-          "rank": 7,
+          "rank": 6,
           "ticker": "INTC",
           "name": "인텔",
           "mom_pct": 202.1,
           "signal_close": 65.76
         },
         {
-          "rank": 8,
+          "rank": 7,
           "ticker": "MRVL",
           "name": "마벨 테크놀로지",
           "mom_pct": 201.3,
           "signal_close": 196.4
         },
         {
-          "rank": 9,
+          "rank": 8,
           "ticker": "HPE",
           "name": "휴렛팩커드 엔터프라이즈",
           "mom_pct": 183.0,
           "signal_close": 55.09
         },
         {
-          "rank": 10,
+          "rank": 9,
           "ticker": "WDC",
           "name": "웨스턴 디지털",
           "mom_pct": 162.8,
           "signal_close": 366.11
+        },
+        {
+          "rank": 10,
+          "ticker": "COHR",
+          "name": "코히어런트",
+          "mom_pct": 155.3,
+          "signal_close": 210.32
         }
       ],
       "added": [],
