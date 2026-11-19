@@ -1,0 +1,41 @@
+{
+  "updated_at": "2026-11-19T10:32+09:00",
+  "by_state": {
+    "add": {
+      "days": 2,
+      "sp500_fwd20_avg_pct": null,
+      "sp500_fwd60_avg_pct": null
+    },
+    "normal": {
+      "days": 3,
+      "sp500_fwd20_avg_pct": null,
+      "sp500_fwd60_avg_pct": null
+    }
+  },
+  "monthly": {
+    "aggressive": {
+      "months": [
+        {
+          "month": "2026-11",
+          "status": "보유 중 (다음 달 첫 거래일에 채점)"
+        }
+      ],
+      "scored_months": 0,
+      "cum_pct": null,
+      "sp500_cum_pct": null,
+      "beat_rate_pct": null
+    },
+    "basic": {
+      "months": [
+        {
+          "month": "2026-11",
+          "status": "보유 중 (다음 달 첫 거래일에 채점)"
+        }
+      ],
+      "scored_months": 0,
+      "cum_pct": null,
+      "sp500_cum_pct": null,
+      "beat_rate_pct": null
+    }
+  }
+}

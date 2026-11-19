@@ -1,0 +1,43 @@
+{
+  "updated_at": "2026-11-19T10:32+09:00",
+  "rule_followed (매수일만, 상위3)": {
+    "trades": 12,
+    "days": 4,
+    "avg_net_pct": -0.004,
+    "hit_rate_pct": 58.3,
+    "avg_vs_random_pctp": 0.134,
+    "sum_net_pct": -0.05
+  },
+  "rule_followed_top1": {
+    "trades": 4,
+    "days": 4,
+    "avg_net_pct": 0.021,
+    "hit_rate_pct": 50.0,
+    "avg_vs_random_pctp": 0.158,
+    "sum_net_pct": 0.08
+  },
+  "all_days (쉬는 날 포함, 상위3)": {
+    "trades": 12,
+    "days": 4,
+    "avg_net_pct": -0.004,
+    "hit_rate_pct": 58.3,
+    "avg_vs_random_pctp": 0.134,
+    "sum_net_pct": -0.05
+  },
+  "skip_days_only (쉬는 날 성과 확인용)": null,
+  "backtest_reference": "개발 +0.06~0.12% / 검증 +0.34~0.65%, 적중률 49~60% (RESULTS.md 4차)",
+  "monthly": {
+    "kr": {
+      "months": [
+        {
+          "month": "2026-11",
+          "status": "보유 중 (다음 달 첫 거래일에 채점)"
+        }
+      ],
+      "scored_months": 0,
+      "cum_pct": null,
+      "sp500_cum_pct": null,
+      "beat_rate_pct": null
+    }
+  }
+}

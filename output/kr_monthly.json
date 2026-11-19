@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-11-19T07:55+09:00",
+  "month": "2026-11",
+  "signal_date": "2026-10-30",
+  "rule": "매월 첫 거래일 09:00 시가에 매수 → 다음 달 첫 거래일 시가에 교체 (목록에 남은 종목은 계속 보유, 동일 비중)",
+  "caution": "5년 백테스트이며 통계적으로 확정되지 않았습니다. 현재 코스피200 종목만으로 계산해 실제보다 좋게 나왔을 수 있고, 한 달에 −20% 넘게 빠질 수 있습니다.",
+  "basic": {
+    "label": "12개월 모멘텀 상위 10",
+    "backtest": "연 +43% (같은 종목 평균 +17%, 코스피 +21%), 평균 이긴 달 61%, 최대 낙폭 −47% · 생존 편향으로 부풀려졌을 수 있음",
+    "picks": [
+      {
+        "rank": 1,
+        "ticker": "009150.KS",
+        "name": "삼성전기",
+        "mom_pct": 581.5,
+        "signal_close": 1196000.0
+      },
+      {
+        "rank": 2,
+        "ticker": "047040.KS",
+        "name": "대우건설",
+        "mom_pct": 373.7,
+        "signal_close": 10920.0
+      },
+      {
+        "rank": 3,
+        "ticker": "402340.KS",
+        "name": "SK스퀘어",
+        "mom_pct": 350.2,
+        "signal_close": 897000.0
+      },
+      {
+        "rank": 4,
+        "ticker": "000660.KS",
+        "name": "SK하이닉스",
+        "mom_pct": 271.2,
+        "signal_close": 1418000.0
+      },
+      {
+        "rank": 5,
+        "ticker": "010120.KS",
+        "name": "LS ELECTRIC",
+        "mom_pct": 179.3,
+        "signal_close": 149600.0
+      },
+      {
+        "rank": 6,
+        "ticker": "005930.KS",
+        "name": "삼성전자",
+        "mom_pct": 178.2,
+        "signal_close": 225000.0
+      },
+      {
+        "rank": 7,
+        "ticker": "011070.KS",
+        "name": "LG이노텍",
+        "mom_pct": 161.1,
+        "signal_close": 326000.0
+      },
+      {
+        "rank": 8,
+        "ticker": "034730.KS",
+        "name": "SK",
+        "mom_pct": 155.7,
+        "signal_close": 503000.0
+      },
+      {
+        "rank": 9,
+        "ticker": "307950.KS",
+        "name": "현대오토에버",
+        "mom_pct": 136.9,
+        "signal_close": 289000.0
+      },
+      {
+        "rank": 10,
+        "ticker": "000990.KS",
+        "name": "DB하이텍",
+        "mom_pct": 136.3,
+        "signal_close": 92000.0
+      }
+    ],
+    "added": [],
+    "removed": []
+  }
+}
