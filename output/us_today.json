@@ -1,124 +1,124 @@
 {
-  "generated_at": "2026-11-20T07:52+09:00",
-  "us_session_date": "2026-11-19",
+  "generated_at": "2026-11-23T07:46+09:00",
+  "us_session_date": "2026-11-20",
   "state": "add",
   "message": "추가 매수 유리 구간: 과거 이런 날 산 경우 20~60일 성과가 평소보다 좋았습니다 (통계적으로는 약함).",
   "reasons": [
-    "VIX 역전: 단기 공포(VIX 28.4)가 3개월 공포보다 큼 (비율 1.05)",
-    "CNN 공포탐욕지수 18.7 (극단적 공포)"
+    "VIX 역전: 단기 공포(VIX 35.9)가 3개월 공포보다 큼 (비율 1.16)",
+    "CNN 공포탐욕지수 9.7 (극단적 공포)"
   ],
   "indicators": {
-    "vix": 28.44,
-    "vix3m": 27.03,
-    "vix_term": 1.052,
+    "vix": 35.89,
+    "vix3m": 30.94,
+    "vix_term": 1.16,
     "fear_greed": {
-      "score": 18.7,
+      "score": 9.7,
       "rating": "extreme fear",
-      "prev_close": 24.6
+      "prev_close": 18.7
     },
-    "sp500": 7175.83,
-    "sp500_1d_pct": -2.02
+    "sp500": 6910.39,
+    "sp500_1d_pct": -3.7
   },
   "momentum_top20": [
     {
       "ticker": "MRNA",
       "name": "모더나",
-      "mom_12_1_pct": 806.2
+      "mom_12_1_pct": 743.6
+    },
+    {
+      "ticker": "SNDK",
+      "name": "샌디스크",
+      "mom_12_1_pct": 543.5
     },
     {
       "ticker": "MU",
       "name": "마이크론 테크놀로지",
-      "mom_12_1_pct": 325.3
+      "mom_12_1_pct": 323.2
     },
     {
       "ticker": "DELL",
       "name": "델 테크놀로지스",
-      "mom_12_1_pct": 285.8
+      "mom_12_1_pct": 272.6
     },
     {
       "ticker": "LITE",
       "name": "루멘텀",
-      "mom_12_1_pct": 222.6
+      "mom_12_1_pct": 195.9
     },
     {
       "ticker": "MRVL",
       "name": "마벨 테크놀로지",
-      "mom_12_1_pct": 191.4
+      "mom_12_1_pct": 195.0
     },
     {
       "ticker": "HPE",
       "name": "휴렛팩커드 엔터프라이즈",
-      "mom_12_1_pct": 177.1
-    },
-    {
-      "ticker": "STX",
-      "name": "씨게이트 테크놀로지",
-      "mom_12_1_pct": 167.0
+      "mom_12_1_pct": 176.3
     },
     {
       "ticker": "OKTA",
       "name": "옥타",
-      "mom_12_1_pct": 157.1
+      "mom_12_1_pct": 170.8
     },
     {
-      "ticker": "INTC",
-      "name": "인텔",
-      "mom_12_1_pct": 154.3
-    },
-    {
-      "ticker": "WDC",
-      "name": "웨스턴 디지털",
-      "mom_12_1_pct": 152.6
-    },
-    {
-      "ticker": "VLO",
-      "name": "발레로 에너지",
-      "mom_12_1_pct": 149.5
+      "ticker": "STX",
+      "name": "씨게이트 테크놀로지",
+      "mom_12_1_pct": 165.5
     },
     {
       "ticker": "AMD",
       "name": "AMD",
-      "mom_12_1_pct": 146.5
+      "mom_12_1_pct": 153.6
+    },
+    {
+      "ticker": "INTC",
+      "name": "인텔",
+      "mom_12_1_pct": 152.1
+    },
+    {
+      "ticker": "WDC",
+      "name": "웨스턴 디지털",
+      "mom_12_1_pct": 146.9
+    },
+    {
+      "ticker": "VLO",
+      "name": "발레로 에너지",
+      "mom_12_1_pct": 141.7
     },
     {
       "ticker": "MPC",
       "name": "마라톤 페트롤리엄",
-      "mom_12_1_pct": 144.5
-    },
-    {
-      "ticker": "BE",
-      "name": "블룸 에너지",
-      "mom_12_1_pct": 133.2
-    },
-    {
-      "ticker": "ILMN",
-      "name": "일루미나",
-      "mom_12_1_pct": 125.9
+      "mom_12_1_pct": 139.9
     },
     {
       "ticker": "FTNT",
       "name": "포티넷",
-      "mom_12_1_pct": 121.7
+      "mom_12_1_pct": 128.2
     },
     {
-      "ticker": "PSX",
-      "name": "필립스66",
-      "mom_12_1_pct": 115.6
+      "ticker": "ILMN",
+      "name": "일루미나",
+      "mom_12_1_pct": 117.5
     },
     {
       "ticker": "TWLO",
       "name": "트윌리오",
-      "mom_12_1_pct": 113.3
+      "mom_12_1_pct": 117.1
     },
     {
       "ticker": "APA",
       "name": "APA",
-      "mom_12_1_pct": 111.5
+      "mom_12_1_pct": 116.7
     },
     {
-      "ticker": "CRL",
-      "name": "찰스리버 래버러토리스",
-      "mom_12_1_pct": 109.6
+      "ticker": "BE",
+      "name": "블룸 에너지",
+      "mom_12_1_pct": 114.8
+    },
+    {
+      "ticker": "PSX",
+      "name": "필립스66",
+      "mom_12_1_pct": 111.8
     }
   ],
   "note": "모멘텀 목록은 참고용 (60일 +2.6%p, 근거 약함). 추천이 아니라 정보입니다.",
@@ -127,87 +127,88 @@
     "signal_date": "2026-10-30",
     "rule": "매월 첫 거래일 미국장 시가에 매수 → 다음 달 첫 거래일 시가에 교체 (동일 비중)",
     "caution": "5년 백테스트 결과이며 통계적으로 확정되지 않았습니다. 한 달에 −20% 넘게 빠질 수 있고, 반도체 등 한 업종에 쏠릴 수 있습니다.",
+    "sp500_above_200ma": true,
     "basic": {
       "label": "기본형: 12개월 모멘텀 상위 10",
       "backtest": "연 +25.1% (S&P500 +10.8%), 월 변동성 10.0%, 최대 낙폭 −24%, S&P 이긴 달 58%",
       "picks": [
         {
           "rank": 1,
+          "ticker": "SNDK",
+          "name": "샌디스크",
+          "mom_pct": 730.9,
+          "signal_close": 143.86
+        },
+        {
+          "rank": 2,
           "ticker": "MRNA",
           "name": "모더나",
           "mom_pct": 662.8,
           "signal_close": 221.72
         },
         {
-          "rank": 2,
+          "rank": 3,
           "ticker": "LITE",
           "name": "루멘텀",
           "mom_pct": 443.9,
           "signal_close": 840.7
         },
         {
-          "rank": 3,
+          "rank": 4,
           "ticker": "MU",
           "name": "마이크론 테크놀로지",
           "mom_pct": 358.0,
           "signal_close": 884.74
         },
         {
-          "rank": 4,
+          "rank": 5,
           "ticker": "DELL",
           "name": "델 테크놀로지스",
           "mom_pct": 251.3,
           "signal_close": 424.3
         },
         {
-          "rank": 5,
+          "rank": 6,
           "ticker": "STX",
           "name": "씨게이트 테크놀로지",
           "mom_pct": 219.7,
           "signal_close": 644.58
         },
         {
-          "rank": 6,
+          "rank": 7,
           "ticker": "INTC",
           "name": "인텔",
           "mom_pct": 202.1,
           "signal_close": 65.76
         },
         {
-          "rank": 7,
+          "rank": 8,
           "ticker": "MRVL",
           "name": "마벨 테크놀로지",
           "mom_pct": 201.3,
           "signal_close": 196.4
         },
         {
-          "rank": 8,
+          "rank": 9,
           "ticker": "HPE",
           "name": "휴렛팩커드 엔터프라이즈",
           "mom_pct": 183.0,
           "signal_close": 55.09
         },
         {
-          "rank": 9,
+          "rank": 10,
           "ticker": "WDC",
           "name": "웨스턴 디지털",
           "mom_pct": 162.8,
           "signal_close": 366.11
-        },
-        {
-          "rank": 10,
-          "ticker": "COHR",
-          "name": "코히어런트",
-          "mom_pct": 155.3,
-          "signal_close": 210.32
         }
       ],
       "added": [],
       "removed": []
     },
     "aggressive": {
-      "label": "공격형: 6개월 모멘텀 상위 5",
-      "backtest": "연 +38.6% (S&P500 +10.8%), 월 변동성 12.7%, 최대 낙폭 −24%, S&P 이긴 달 56%",
+      "label": "공격형: 6개월 모멘텀 상위 3 (시장이 200일선 아래면 현금)",
+      "backtest": "2004~2026 연 +21% (S&P500 +9%), 최대 낙폭 −33%, 최근 6년 연 +16% (S&P +13%) · 한 달 −25%도 있었음",
       "picks": [
         {
           "rank": 1,
