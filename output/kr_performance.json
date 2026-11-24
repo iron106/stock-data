@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-11-23T10:34+09:00",
+  "updated_at": "2026-11-24T10:33+09:00",
   "rule_followed (매수일만, 상위3)": {
-    "trades": 15,
-    "days": 5,
-    "avg_net_pct": -0.357,
-    "hit_rate_pct": 46.7,
-    "avg_vs_random_pctp": 0.317,
-    "sum_net_pct": -5.35
+    "trades": 18,
+    "days": 6,
+    "avg_net_pct": -0.7,
+    "hit_rate_pct": 38.9,
+    "avg_vs_random_pctp": 0.257,
+    "sum_net_pct": -12.6
   },
   "rule_followed_top1": {
-    "trades": 5,
-    "days": 5,
-    "avg_net_pct": -0.415,
-    "hit_rate_pct": 40.0,
-    "avg_vs_random_pctp": 0.258,
-    "sum_net_pct": -2.08
+    "trades": 6,
+    "days": 6,
+    "avg_net_pct": -0.708,
+    "hit_rate_pct": 33.3,
+    "avg_vs_random_pctp": 0.249,
+    "sum_net_pct": -4.25
   },
   "all_days (쉬는 날 포함, 상위3)": {
-    "trades": 15,
-    "days": 5,
-    "avg_net_pct": -0.357,
-    "hit_rate_pct": 46.7,
-    "avg_vs_random_pctp": 0.317,
-    "sum_net_pct": -5.35
+    "trades": 18,
+    "days": 6,
+    "avg_net_pct": -0.7,
+    "hit_rate_pct": 38.9,
+    "avg_vs_random_pctp": 0.257,
+    "sum_net_pct": -12.6
   },
   "skip_days_only (쉬는 날 성과 확인용)": null,
   "backtest_reference": "개발 +0.06~0.12% / 검증 +0.34~0.65%, 적중률 49~60% (RESULTS.md 4차)",
@@ -39,5 +39,18 @@
       "sp500_cum_pct": null,
       "beat_rate_pct": null
     }
+  },
+  "weekly": {
+    "weeks": [
+      {
+        "week": "2026-11-23",
+        "status": "보유 중 (다음 주 첫 거래일에 채점)",
+        "picks": 0
+      }
+    ],
+    "scored_weeks": 0,
+    "cum_pct": null,
+    "kospi_cum_pct": null,
+    "beat_rate_pct": null
   }
 }
