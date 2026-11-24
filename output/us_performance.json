@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T10:33+09:00",
+  "updated_at": "2026-11-24T17:20+09:00",
   "by_state": {
     "add": {
       "days": 5,
@@ -37,5 +37,18 @@
       "sp500_cum_pct": null,
       "beat_rate_pct": null
     }
+  },
+  "weekly": {
+    "weeks": [
+      {
+        "week": "2026-11-23",
+        "status": "보유 중 (다음 주 첫 거래일에 채점)",
+        "picks": 0
+      }
+    ],
+    "scored_weeks": 0,
+    "cum_pct": null,
+    "kospi_cum_pct": null,
+    "beat_rate_pct": null
   }
 }
