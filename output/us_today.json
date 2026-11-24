@@ -1,126 +1,126 @@
 {
-  "generated_at": "2026-11-24T17:49+09:00",
-  "us_session_date": "2026-11-23",
+  "generated_at": "2026-11-25T07:59+09:00",
+  "us_session_date": "2026-11-24",
   "state": "add",
   "message": "추가 매수 유리 구간: 과거 이런 날 산 경우 20~60일 성과가 평소보다 좋았습니다 (통계적으로는 약함).",
   "reasons": [
-    "VIX 역전: 단기 공포(VIX 26.6)가 3개월 공포보다 큼 (비율 1.04)",
+    "VIX 역전: 단기 공포(VIX 26.4)가 3개월 공포보다 큼 (비율 1.03)",
     "CNN 공포탐욕지수 17.4 (극단적 공포)",
     "해외 나스닥100 2배(QLD)는 이번 주 현금: 나스닥100이 200일 평균선보다 10.8% 아래입니다. QLD를 갖고 있으면 이번 주 첫 거래일 미국장 시가에 팝니다.",
     "국내 이번 주는 현금: 코스피가 200일 평균선 아래라 쉬는 주입니다. 갖고 있던 종목은 이번 주 첫 거래일 09:00 시가에 팝니다."
   ],
   "indicators": {
-    "vix": 26.62,
-    "vix3m": 25.5,
-    "vix_term": 1.044,
+    "vix": 26.36,
+    "vix3m": 25.47,
+    "vix_term": 1.035,
     "fear_greed": {
       "score": 17.4,
       "rating": "extreme fear",
       "prev_close": 17.0
     },
-    "sp500": 7237.17,
-    "sp500_1d_pct": 4.73
+    "sp500": 7201.09,
+    "sp500_1d_pct": -0.5
   },
   "momentum_top20": [
     {
       "ticker": "MRNA",
       "name": "모더나",
-      "mom_12_1_pct": 723.4
+      "mom_12_1_pct": 740.3
     },
     {
       "ticker": "SNDK",
       "name": "샌디스크",
-      "mom_12_1_pct": 453.2
+      "mom_12_1_pct": 518.2
     },
     {
       "ticker": "MU",
       "name": "마이크론 테크놀로지",
-      "mom_12_1_pct": 303.6
+      "mom_12_1_pct": 313.6
     },
     {
       "ticker": "DELL",
       "name": "델 테크놀로지스",
-      "mom_12_1_pct": 267.2
-    },
-    {
-      "ticker": "MRVL",
-      "name": "마벨 테크놀로지",
-      "mom_12_1_pct": 179.0
-    },
-    {
-      "ticker": "HPE",
-      "name": "휴렛팩커드 엔터프라이즈",
-      "mom_12_1_pct": 178.4
-    },
-    {
-      "ticker": "OKTA",
-      "name": "옥타",
-      "mom_12_1_pct": 178.0
+      "mom_12_1_pct": 298.6
     },
     {
       "ticker": "LITE",
       "name": "루멘텀",
-      "mom_12_1_pct": 173.3
+      "mom_12_1_pct": 197.4
     },
     {
-      "ticker": "STX",
-      "name": "씨게이트 테크놀로지",
-      "mom_12_1_pct": 154.2
+      "ticker": "MRVL",
+      "name": "마벨 테크놀로지",
+      "mom_12_1_pct": 191.9
     },
     {
-      "ticker": "INTC",
-      "name": "인텔",
-      "mom_12_1_pct": 152.8
+      "ticker": "HPE",
+      "name": "휴렛팩커드 엔터프라이즈",
+      "mom_12_1_pct": 184.8
     },
     {
-      "ticker": "MPC",
-      "name": "마라톤 페트롤리엄",
-      "mom_12_1_pct": 147.5
+      "ticker": "OKTA",
+      "name": "옥타",
+      "mom_12_1_pct": 178.5
     },
     {
       "ticker": "AMD",
       "name": "AMD",
-      "mom_12_1_pct": 147.0
+      "mom_12_1_pct": 171.8
     },
     {
-      "ticker": "VLO",
-      "name": "발레로 에너지",
-      "mom_12_1_pct": 144.7
+      "ticker": "INTC",
+      "name": "인텔",
+      "mom_12_1_pct": 161.6
+    },
+    {
+      "ticker": "STX",
+      "name": "씨게이트 테크놀로지",
+      "mom_12_1_pct": 155.0
     },
     {
       "ticker": "WDC",
       "name": "웨스턴 디지털",
-      "mom_12_1_pct": 136.0
-    },
-    {
-      "ticker": "FTNT",
-      "name": "포티넷",
-      "mom_12_1_pct": 129.8
-    },
-    {
-      "ticker": "PSX",
-      "name": "필립스66",
-      "mom_12_1_pct": 116.9
-    },
-    {
-      "ticker": "ILMN",
-      "name": "일루미나",
-      "mom_12_1_pct": 115.2
+      "mom_12_1_pct": 145.1
     },
     {
       "ticker": "BE",
       "name": "블룸 에너지",
-      "mom_12_1_pct": 113.4
+      "mom_12_1_pct": 131.7
+    },
+    {
+      "ticker": "MPC",
+      "name": "마라톤 페트롤리엄",
+      "mom_12_1_pct": 129.5
+    },
+    {
+      "ticker": "FTNT",
+      "name": "포티넷",
+      "mom_12_1_pct": 128.8
+    },
+    {
+      "ticker": "VLO",
+      "name": "발레로 에너지",
+      "mom_12_1_pct": 122.5
     },
     {
       "ticker": "PANW",
       "name": "팔로알토 네트웍스",
-      "mom_12_1_pct": 112.3
+      "mom_12_1_pct": 115.7
     },
     {
-      "ticker": "TWLO",
-      "name": "트윌리오",
-      "mom_12_1_pct": 112.0
+      "ticker": "ILMN",
+      "name": "일루미나",
+      "mom_12_1_pct": 115.6
+    },
+    {
+      "ticker": "APA",
+      "name": "APA",
+      "mom_12_1_pct": 110.9
+    },
+    {
+      "ticker": "CRWD",
+      "name": "크라우드스트라이크",
+      "mom_12_1_pct": 109.3
     }
   ],
   "note": "모멘텀 목록은 참고용 (60일 +2.6%p, 근거 약함). 추천이 아니라 정보입니다.",
