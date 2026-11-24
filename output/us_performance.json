@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T17:20+09:00",
+  "updated_at": "2026-11-24T17:44+09:00",
   "by_state": {
     "add": {
       "days": 5,
@@ -26,6 +26,18 @@
       "beat_rate_pct": null
     },
     "basic": {
+      "months": [
+        {
+          "month": "2026-11",
+          "status": "보유 중 (다음 달 첫 거래일에 채점)"
+        }
+      ],
+      "scored_months": 0,
+      "cum_pct": null,
+      "sp500_cum_pct": null,
+      "beat_rate_pct": null
+    },
+    "stock5": {
       "months": [
         {
           "month": "2026-11",
