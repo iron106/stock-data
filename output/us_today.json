@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T17:44+09:00",
+  "generated_at": "2026-11-24T17:49+09:00",
   "us_session_date": "2026-11-23",
   "state": "add",
   "message": "추가 매수 유리 구간: 과거 이런 날 산 경우 20~60일 성과가 평소보다 좋았습니다 (통계적으로는 약함).",
   "reasons": [
     "VIX 역전: 단기 공포(VIX 26.6)가 3개월 공포보다 큼 (비율 1.04)",
-    "CNN 공포탐욕지수 17.5 (극단적 공포)",
+    "CNN 공포탐욕지수 17.4 (극단적 공포)",
     "해외 나스닥100 2배(QLD)는 이번 주 현금: 나스닥100이 200일 평균선보다 10.8% 아래입니다. QLD를 갖고 있으면 이번 주 첫 거래일 미국장 시가에 팝니다.",
     "국내 이번 주는 현금: 코스피가 200일 평균선 아래라 쉬는 주입니다. 갖고 있던 종목은 이번 주 첫 거래일 09:00 시가에 팝니다."
   ],
@@ -14,7 +14,7 @@
     "vix3m": 25.5,
     "vix_term": 1.044,
     "fear_greed": {
-      "score": 17.5,
+      "score": 17.4,
       "rating": "extreme fear",
       "prev_close": 17.0
     },
@@ -138,51 +138,55 @@
     "stock_month": "2026-11",
     "stock_rule": "종목 5: 매달 첫 거래일 미국장 시가에 사고, 다음 달 목록에서 빠지면 팖 (동일 비중)",
     "basic": {
-      "label": "해외 종목 5 · 6개월 모멘텀 상위 5 (S&P500 200일선 아래면 현금) · 참고용",
-      "backtest": "생존편향 제거 검증 2004~2026 연 +16% (나스닥100 +14%), 최대 낙폭 −35% · 단 2010~2020은 연 +11%로 나스닥(+19%)보다 낮음",
+      "label": "해외 종목 5 · 3개월 모멘텀 상위 5 (S&P500 200일선 아래면 현금)",
+      "backtest": "2004~2026 연 +11.5% (S&P500 +9%), 최대 낙폭 −38%",
       "picks": [
         {
           "rank": 1,
           "ticker": "MRNA",
           "name": "모더나",
-          "mom_pct": 306.8,
+          "mom_pct": 233.4,
           "signal_close": 221.72
         },
         {
           "rank": 2,
-          "ticker": "DELL",
-          "name": "델 테크놀로지스",
-          "mom_pct": 160.0,
-          "signal_close": 424.3
+          "ticker": "P",
+          "name": "에버퓨어",
+          "mom_pct": 67.0,
+          "signal_close": 126.98
         },
         {
           "rank": 3,
-          "ticker": "HPE",
-          "name": "휴렛팩커드 엔터프라이즈",
-          "mom_pct": 130.8,
-          "signal_close": 55.09
+          "ticker": "TWLO",
+          "name": "트윌리오",
+          "mom_pct": 51.8,
+          "signal_close": 205.03
         },
         {
           "rank": 4,
-          "ticker": "CRWD",
-          "name": "크라우드스트라이크",
-          "mom_pct": 126.7,
-          "signal_close": 250.43
+          "ticker": "SMCI",
+          "name": "슈퍼마이크로",
+          "mom_pct": 37.9,
+          "signal_close": 32.95
         },
         {
           "rank": 5,
-          "ticker": "PANW",
-          "name": "팔로알토 네트웍스",
-          "mom_pct": 119.2,
-          "signal_close": 365.87
+          "ticker": "RVTY",
+          "name": "레비티",
+          "mom_pct": 36.0,
+          "signal_close": 157.0
         }
       ],
       "added": [],
       "removed": [
+        "CRWD",
+        "DELL",
+        "HPE",
         "INTC",
         "LITE",
         "MRVL",
         "MU",
+        "PANW",
         "SNDK",
         "STX",
         "WDC"
@@ -204,44 +208,48 @@
           "rank": 2,
           "ticker": "MRNA",
           "name": "모더나",
-          "mom_pct": 306.8,
+          "mom_pct": 233.4,
           "signal_close": 221.72
         },
         {
           "rank": 3,
-          "ticker": "DELL",
-          "name": "델 테크놀로지스",
-          "mom_pct": 160.0,
-          "signal_close": 424.3
+          "ticker": "P",
+          "name": "에버퓨어",
+          "mom_pct": 67.0,
+          "signal_close": 126.98
         },
         {
           "rank": 4,
-          "ticker": "HPE",
-          "name": "휴렛팩커드 엔터프라이즈",
-          "mom_pct": 130.8,
-          "signal_close": 55.09
+          "ticker": "TWLO",
+          "name": "트윌리오",
+          "mom_pct": 51.8,
+          "signal_close": 205.03
         },
         {
           "rank": 5,
-          "ticker": "CRWD",
-          "name": "크라우드스트라이크",
-          "mom_pct": 126.7,
-          "signal_close": 250.43
+          "ticker": "SMCI",
+          "name": "슈퍼마이크로",
+          "mom_pct": 37.9,
+          "signal_close": 32.95
         },
         {
           "rank": 6,
-          "ticker": "PANW",
-          "name": "팔로알토 네트웍스",
-          "mom_pct": 119.2,
-          "signal_close": 365.87
+          "ticker": "RVTY",
+          "name": "레비티",
+          "mom_pct": 36.0,
+          "signal_close": 157.0
         }
       ],
       "added": [],
       "removed": [
+        "CRWD",
+        "DELL",
+        "HPE",
         "INTC",
         "LITE",
         "MRVL",
         "MU",
+        "PANW",
         "SNDK",
         "STX",
         "WDC"
