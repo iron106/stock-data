@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-25T07:59+09:00",
-  "us_session_date": "2026-11-24",
+  "generated_at": "2026-11-26T07:57+09:00",
+  "us_session_date": "2026-11-25",
   "state": "add",
   "message": "추가 매수 유리 구간: 과거 이런 날 산 경우 20~60일 성과가 평소보다 좋았습니다 (통계적으로는 약함).",
   "reasons": [
-    "VIX 역전: 단기 공포(VIX 26.4)가 3개월 공포보다 큼 (비율 1.03)",
-    "CNN 공포탐욕지수 17.4 (극단적 공포)",
+    "VIX 역전: 단기 공포(VIX 28.3)가 3개월 공포보다 큼 (비율 1.08)",
+    "CNN 공포탐욕지수 15.2 (극단적 공포)",
     "해외 나스닥100 2배(QLD)는 이번 주 현금: 나스닥100이 200일 평균선보다 10.8% 아래입니다. QLD를 갖고 있으면 이번 주 첫 거래일 미국장 시가에 팝니다.",
     "국내 이번 주는 현금: 코스피가 200일 평균선 아래라 쉬는 주입니다. 갖고 있던 종목은 이번 주 첫 거래일 09:00 시가에 팝니다."
   ],
   "indicators": {
-    "vix": 26.36,
-    "vix3m": 25.47,
-    "vix_term": 1.035,
+    "vix": 28.29,
+    "vix3m": 26.29,
+    "vix_term": 1.076,
     "fear_greed": {
-      "score": 17.4,
+      "score": 15.2,
       "rating": "extreme fear",
-      "prev_close": 17.0
+      "prev_close": 17.4
     },
-    "sp500": 7201.09,
-    "sp500_1d_pct": -0.5
+    "sp500": 7182.78,
+    "sp500_1d_pct": -0.25
   },
   "momentum_top20": [
     {
       "ticker": "MRNA",
       "name": "모더나",
-      "mom_12_1_pct": 740.3
+      "mom_12_1_pct": 756.3
     },
     {
       "ticker": "SNDK",
@@ -35,92 +35,92 @@
     {
       "ticker": "MU",
       "name": "마이크론 테크놀로지",
-      "mom_12_1_pct": 313.6
+      "mom_12_1_pct": 327.0
     },
     {
       "ticker": "DELL",
       "name": "델 테크놀로지스",
-      "mom_12_1_pct": 298.6
+      "mom_12_1_pct": 270.5
     },
     {
       "ticker": "LITE",
       "name": "루멘텀",
-      "mom_12_1_pct": 197.4
+      "mom_12_1_pct": 196.5
     },
     {
       "ticker": "MRVL",
       "name": "마벨 테크놀로지",
-      "mom_12_1_pct": 191.9
+      "mom_12_1_pct": 186.9
     },
     {
       "ticker": "HPE",
       "name": "휴렛팩커드 엔터프라이즈",
-      "mom_12_1_pct": 184.8
+      "mom_12_1_pct": 180.2
     },
     {
       "ticker": "OKTA",
       "name": "옥타",
-      "mom_12_1_pct": 178.5
+      "mom_12_1_pct": 176.4
     },
     {
       "ticker": "AMD",
       "name": "AMD",
-      "mom_12_1_pct": 171.8
+      "mom_12_1_pct": 170.0
     },
     {
       "ticker": "INTC",
       "name": "인텔",
-      "mom_12_1_pct": 161.6
+      "mom_12_1_pct": 159.5
     },
     {
       "ticker": "STX",
       "name": "씨게이트 테크놀로지",
-      "mom_12_1_pct": 155.0
+      "mom_12_1_pct": 156.3
     },
     {
       "ticker": "WDC",
       "name": "웨스턴 디지털",
-      "mom_12_1_pct": 145.1
-    },
-    {
-      "ticker": "BE",
-      "name": "블룸 에너지",
-      "mom_12_1_pct": 131.7
+      "mom_12_1_pct": 151.3
     },
     {
       "ticker": "MPC",
       "name": "마라톤 페트롤리엄",
-      "mom_12_1_pct": 129.5
+      "mom_12_1_pct": 129.9
     },
     {
-      "ticker": "FTNT",
-      "name": "포티넷",
-      "mom_12_1_pct": 128.8
+      "ticker": "BE",
+      "name": "블룸 에너지",
+      "mom_12_1_pct": 125.5
     },
     {
       "ticker": "VLO",
       "name": "발레로 에너지",
-      "mom_12_1_pct": 122.5
-    },
-    {
-      "ticker": "PANW",
-      "name": "팔로알토 네트웍스",
-      "mom_12_1_pct": 115.7
+      "mom_12_1_pct": 122.7
     },
     {
       "ticker": "ILMN",
       "name": "일루미나",
-      "mom_12_1_pct": 115.6
+      "mom_12_1_pct": 122.5
     },
     {
-      "ticker": "APA",
-      "name": "APA",
-      "mom_12_1_pct": 110.9
+      "ticker": "FTNT",
+      "name": "포티넷",
+      "mom_12_1_pct": 116.1
+    },
+    {
+      "ticker": "PANW",
+      "name": "팔로알토 네트웍스",
+      "mom_12_1_pct": 112.8
     },
     {
       "ticker": "CRWD",
       "name": "크라우드스트라이크",
-      "mom_12_1_pct": 109.3
+      "mom_12_1_pct": 112.7
+    },
+    {
+      "ticker": "CRL",
+      "name": "찰스리버 래버러토리스",
+      "mom_12_1_pct": 109.0
     }
   ],
   "note": "모멘텀 목록은 참고용 (60일 +2.6%p, 근거 약함). 추천이 아니라 정보입니다.",
