@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-25T10:39+09:00",
+  "updated_at": "2026-11-26T10:39+09:00",
   "by_state": {
     "add": {
-      "days": 6,
+      "days": 7,
       "sp500_fwd20_avg_pct": null,
       "sp500_fwd60_avg_pct": null
     },
